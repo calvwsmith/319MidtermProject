@@ -1,0 +1,24 @@
+html {
+    color : white;
+}
+
+body {
+    background-color: white;
+}
+
+.navbar {
+    background-color: gray;
+    margin : 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+.navactive {
+    font-size: large;
+    color : white;
+}
+
+.navlink {
+    font-size: large;
+    color:lightgrey;
+}
