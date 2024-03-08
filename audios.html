@@ -3,6 +3,12 @@
         <link rel="stylesheet" href="./styles/index.css">
         <title>Linkt</title>
         <link rel="icon" type="image/x-icon" href="./images/linktlogo.png">
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+        <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/album/">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
+        <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
     </head>
     <body>
         <div class="navbar">
@@ -17,6 +23,43 @@
                 </h3>
             </nav>
         </div>
+
+        <div class="album py-5 bg-body-tertiary">
+            <div class="container">
+        
+              <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                <div class="col">
+                    <div class="card shadow-sm">
+                      <div id="audio1"></div> <!--Image-->
+                      <div class="card-body">
+                        <p id="audio1title" class="card-text"></p> <!--Title-->
+                        <p id="audio1text" class="card-text"></p> <!--Description-->
+                      </div>
+                    </div>
+                  </div>
+                
+                <div class="col">
+                    <div class="card shadow-sm">
+                      <div id="audio2"></div>
+                      <div class="card-body">
+                        <p id="audio2title" class="card-text"></p>
+                        <p id="audio2text" class="card-text"></p>
+                      </div>
+                    </div>
+                  </div>
+
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <div id="audio3"></div>
+                    <div class="card-body">
+                      <p id="audio3title" class="card-text"></p>
+                      <p id="audio3text" class="card-text"></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
     </body>
 </html>
