@@ -1,0 +1,48 @@
+{
+    "video1" : {
+        "link" : "",
+        "title" : "",
+        "text" : ""
+    },
+
+    "video2" : {
+        "link" : "",
+        "title" : "",
+        "text" : ""
+    },
+    "video3" : {
+        "link" : "",
+        "title" : "",
+        "text" : ""
+    },
+    "image1" : {
+        "link" : "",
+        "title" : "",
+        "text" : ""
+    },
+    "image2" : {
+        "link" : "",
+        "title" : "",
+        "text" : ""
+    },
+    "image3" : {
+        "link" : "",
+        "title" : "",
+        "text" : ""
+    },
+    "audio1" : {
+        "link" : "https://freesound.org/people/Timbre/sounds/726606/",
+        "title" : "",
+        "text" : ""
+    },
+    "audio2" : {
+        "link" : "",
+        "title" : "",
+        "text" : ""
+    },
+    "audio3" : {
+        "link" : "",
+        "title" : "",
+        "text" : ""
+    }
+}
