@@ -1,48 +1,48 @@
 {
     "video1" : {
-        "link" : "",
-        "title" : "",
-        "text" : ""
+        "link" : "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+        "title" : "Javascript for Beginners",
+        "text" : "This video can be used to learn how to code with javascript so that you can create something similar to the site we created."
     },
 
     "video2" : {
-        "link" : "",
-        "title" : "",
-        "text" : ""
+        "link" : "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+        "title" : "HTML for Beginners",
+        "text" : "This video can teach you how to use HTML, which we also used to create the website you are viewing this on."
     },
     "video3" : {
-        "link" : "",
-        "title" : "",
-        "text" : ""
+        "link" : "https://www.youtube.com/watch?v=iiADhChRriM",
+        "title" : "JSON for Beginners",
+        "text" : "We used JSON to store most of the things you can look at on our website, so this video will help you learn how to do that as well."
     },
     "image1" : {
-        "link" : "",
-        "title" : "",
-        "text" : ""
+        "link" : "./images/cow.jpg",
+        "title" : "Cow",
+        "text" : "We can also display images, such as those of animals or pets, like this cow."
     },
     "image2" : {
-        "link" : "",
-        "title" : "",
-        "text" : ""
+        "link" : "./images/FROG.jpg",
+        "title" : "Frog",
+        "text" : "Another example is this image of a frog, and he is such a cool frog."
     },
     "image3" : {
-        "link" : "",
-        "title" : "",
-        "text" : ""
+        "link" : "./images/Groundhog.jpg",
+        "title" : "Groundhog",
+        "text" : "We are also able to display different sized images, as seen with this groundhog photo."
     },
     "audio1" : {
         "link" : "https://freesound.org/people/Timbre/sounds/726606/",
-        "title" : "",
-        "text" : ""
+        "title" : "Phone Ringing",
+        "text" : "We have included the sound of a phone ringing for demonstration of something that can be posted on our site."
     },
     "audio2" : {
-        "link" : "",
-        "title" : "",
-        "text" : ""
+        "link" : "https://freesound.org/people/MTG/sounds/357465/",
+        "title" : "Trumpet",
+        "text" : "We also demonstrate that things such as music/instuments can also be shared using our site."
     },
     "audio3" : {
-        "link" : "",
-        "title" : "",
-        "text" : ""
+        "link" : "https://freesound.org/people/freelibras/sounds/327445/",
+        "title" : "Birds Chirping",
+        "text" : "Sounds from nature can also be shared if you find something interesting that you want to share."
     }
 }
