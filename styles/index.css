@@ -22,3 +22,17 @@ body {
     font-size: large;
     color:lightgrey;
 }
+.name1{
+    text-align: right;
+    color: violet;
+}
+.name2{
+    font-size: small;
+    text-align: left;
+    color: red;
+}
+.Info{
+    font-size: large;
+    text-align: center;
+    color: teal;
+}

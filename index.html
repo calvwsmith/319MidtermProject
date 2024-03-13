@@ -9,7 +9,7 @@
         <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/album/">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
         <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
-
+        <script src="./index.js"></script>
     </head>
     <body>
         <div class="navbar">
@@ -17,16 +17,48 @@
             <h1>Linkt</h1>
             <nav>
                 <h3>
-                    <a class="navactive" href="./index.html">Info</a>
+                    <a class="navlink" href="./authors.html">Info</a>
                     <a class="navlink" href="./imgs.html">Image</a>
-                    <a class="navlink" href="./videos.html">Video</a>
+                    <a class="navactive" href="./index.html">Video</a>
                     <a class="navlink" href="./audios.html">Audio</a>
                 </h3>
             </nav>
         </div>
-        <p>
-            
-        </p>
+
+        <div class="album py-5 bg-body-tertiary">
+            <div class="container">
+        
+              <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                <div class="col">
+                    <div class="card shadow-sm">
+                      <div id="video1"></div>
+                      <div class="card-body">
+                        <p id="video1title" class="card-text"></p>
+                        <p id="video1text" class="card-text"></p>
+                      </div>
+                    </div>
+                  </div>
+                <div class="col">
+                    <div class="card shadow-sm">
+                      <div id="video2"></div>
+                      <div class="card-body">
+                        <p id="video2title" class="card-text"></p>
+                        <p id="video2text" class="card-text"></p>
+                      </div>
+                    </div>
+                  </div>
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <div id="video3"></div>
+                    <div class="card-body">
+                      <p id="video3title" class="card-text"></p>
+                      <p id="video3text" class="card-text"></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
     </body>
-    <script src="./index.js"></script>
 </html>
